@@ -1,4 +1,3 @@
-# My DWM Setup
 This Is My **[Suckless's DWM](https://dwm.suckless.org/)** Setup ❤️. <br/><br/>
 Project Has Some Basic Patches 📚:
 + [center 6.2](https://dwm.suckless.org/patches/center/)
